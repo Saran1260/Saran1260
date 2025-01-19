@@ -16,7 +16,7 @@ Amazon Sales Data Analysis:
 Sales forecasting, product performance tracking, and customer segmentation.
 
 ### Skills I'm building:
-MySQL, Advanced Excel, Tableau, Python,Power BI,Machine learning 
+MySQL, Advanced Excel, Tableau, Python, Power BI, Machine learning 
 
 💞️ I’m looking to collaborate on:
 End-to-end data analysis projects, dashboard creation, and innovative applications of machine learning.
@@ -32,10 +32,17 @@ He/Him
 I believe every dataset tells a story, and I enjoy uncovering hidden insights to make data meaningful.
 
 📈 Skills Overview:
+
 Programming: Python, MySQL
+
 Visualization Tools: Tableau, Advanced Excel
+
 Key Strengths: Data Cleaning, Statistical Analysis, Trend Forecasting, and Interactive Dashboards
+
 🚀 What I’m Building:
+
 Interactive and graphics-rich dashboards for sales and customer behavior analysis.
+
 Data models and actionable insights to support decision-making for businesses.
+
 Feel free to connect, collaborate, or discuss ideas! Let’s explore the power of data together! 🚀
