@@ -8,12 +8,15 @@ Data Analytics, Business Intelligence, and crafting insightful solutions using d
 
 Zomato Data Analysis:
 Analyzing food delivery trends, customer behavior, and operational efficiency.
+
 Spotify and Instagram Data Analysis:
 Understanding user engagement, content trends, and performance metrics.
+
 Amazon Sales Data Analysis:
 Sales forecasting, product performance tracking, and customer segmentation.
+
 ### Skills I'm building:
-MySQL, Advanced Excel, Tableau, Python
+MySQL, Advanced Excel, Tableau, Python,Power BI,Machine learning 
 
 💞️ I’m looking to collaborate on:
 End-to-end data analysis projects, dashboard creation, and innovative applications of machine learning.
